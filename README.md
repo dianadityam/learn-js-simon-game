@@ -1,1 +1,1 @@
-# learn-js-simon-game
+# learn-js-jquery-simon-game
